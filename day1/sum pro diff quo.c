@@ -15,3 +15,10 @@ int main()
    printf("Quotient of %d and %d is %d\n",a,b,product);
     return 0;
 }
+/*
+Enter two integers 10 2
+Sum of 10 and 2 is 12
+Difference of 10 and 2 is 8
+Product of 10 and 2 is 20
+Quotient of 10 and 2 is 5
+    */
