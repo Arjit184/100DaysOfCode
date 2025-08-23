@@ -17,4 +17,5 @@ Area of rectangle is 50
 Perimeter of rectngle is 30
  Area of rectangle is 21
 Perimeter of rectngle is 20
-/*
+*/
+
