@@ -8,8 +8,10 @@ int main()
     sum=a+b;
     diff=a-b;
     product=a*b;
+    quotient=a/b;
    printf("Sum of %d and %d is %d\n",a,b,sum);
    printf("Difference of %d and %d is %d\n",a,b,diff);
    printf("Product of %d and %d is %d\n",a,b,product);
+   printf("Quotient of %d and %d is %d\n",a,b,product);
     return 0;
 }
