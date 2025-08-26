@@ -16,4 +16,13 @@ int main()
     printf("Circumference of circle = %f\n", circumference);
 
     return 0;
+    /*
+        Enter radius of the circle: 7
+Area of circle = 153.860001
+Circumference of circle = 43.960003
+
+    Enter radius of the circle: 3
+Area of circle = 28.260000
+Circumference of circle = 18.840000
+    */
 }
