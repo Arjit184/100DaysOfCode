@@ -12,3 +12,13 @@ int main()
     printf("Perimeter of rectngle is %d\n",perimeter);
     return 0;
 }
+/*
+Enter length and breadth of the rectangle 5 10
+Area of rectangle is 50
+Perimeter of rectngle is 30
+
+Enter length and breadth of the rectangle 7 3
+ Area of rectangle is 21
+Perimeter of rectngle is 20
+*/
+

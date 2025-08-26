@@ -9,4 +9,9 @@ int main()
     printf("Sum of %d and %d is %d",a,b,sum);
     return 0;
 }
-
+/*
+Enter two integers3 4
+Sum of 3 and 4 is 7
+Enter two integers -1 20
+Sum of -1 and 20 is 19
+    */
