@@ -11,5 +11,13 @@ int main()
     s=sec%60;
     printf("Time in hh:mm:ss format=%02d:%02d:%02d",hr,min,s);
     return 0;
+    /*
+        Enter time in seconds:3661
+Time in hh:mm:ss format=01:01:01
+
+        Enter time in seconds:7322
+Time in hh:mm:ss format=02:02:02
+
+        */
     
 }
