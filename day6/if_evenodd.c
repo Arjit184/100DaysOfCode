@@ -17,5 +17,6 @@ int main()
 
     Enter an integer:12
 12 is even
-    /*
+    */
+    
 }
