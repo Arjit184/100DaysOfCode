@@ -17,7 +17,7 @@ After swapping, first number is 5 and second number is 3
 
         Enter two numbers to be swapped:-1 1  
 After swapping, first number is 1 and second number is -1
-        /*
+        */
 
             
 }
