@@ -16,5 +16,16 @@ int main()
     else
         printf("%d is negative",n);
         return 0;
+<<<<<<< HEAD
 }
 
+=======
+    /*
+        Enter an integer-5
+-5 is negative
+
+        Enter an integer0
+The number is zero
+    */
+}
+>>>>>>> f3a48aa4d4d1973c02ca37d692a666cf36201814
