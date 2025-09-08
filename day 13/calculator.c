@@ -39,3 +39,16 @@ int main()
             return 0;
     }
 }
+/*
+Enter two numbers:4 2
+Enter an operator (+,-,*,/,:+
+a+b=6
+
+Enter two numbers:10 3
+Enter an operator (+,-,*,/,:%
+a%b=1
+
+Enter two numbers:15 5
+Enter an operator (+,-,*,/,:/
+a/b=3
+*/

@@ -1,11 +1,11 @@
-//Write a program to print numbers from 1 to n.
+//Write a program to print the sum of the first n odd numbers
 
 #include<stdio.h>
 int main()
 {
-    int n,i;
+    int n,i,sum=0;
     printf("Enter a number:");
-    scanf("%d" ,&n);
+    scanf("%d",&n);
     if(n<=0)
     {
         printf("Invalid Input");
@@ -13,21 +13,10 @@ int main()
     else {
         for(i=1;i<=n;i++)
         {
-            printf("%d\n",i);
+            sum+=(2*i-1);
+            printf("%d\n",sum);
+          
         }
     }
     return 0;
-}
-/*
-Enter a number:5
-1
-2
-3
-4
-5
-
-Enter a number:3
-1
-2
-3
-*/
+    }
