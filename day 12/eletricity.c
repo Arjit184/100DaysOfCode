@@ -35,6 +35,16 @@ int main()
         return 0;
     }
     }
+    /*
+    Enter the number of units consumed:50  
+bill=250
+
+Enter the number of units consumed:150
+bill=850
+
+Enter the number of units consumed:250
+bill=1700
+    */
     
     
     

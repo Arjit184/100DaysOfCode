@@ -4,9 +4,9 @@
 int main()
 {
     float cp,sp,profit,loss,percentage;
-    printf("Enter CP");
+    printf("Enter cp :");
     scanf("%f",&cp);
-    printf("Enter sp");
+    printf("Enter sp :");
     scanf("%f",&sp);
 
     if(cp>sp){
@@ -39,5 +39,7 @@ Enter sp 800
 Loss=200.00
 Loss percentage=20.00
 
-
+Enter CP 1000
+Enter sp 1000
+No profit no Loss
 */

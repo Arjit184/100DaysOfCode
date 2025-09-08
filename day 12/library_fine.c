@@ -35,3 +35,17 @@ int main()
             return 0;
         }
         }
+        /*
+        Enter the number of days late:4
+Fine=8
+
+Enter the number of days late:8
+Fine=32
+
+Enter the number of days late:15
+Fine=90
+
+Enter the number of days late:31
+Membership Cancelled
+
+        */

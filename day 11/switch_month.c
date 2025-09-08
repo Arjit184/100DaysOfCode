@@ -50,3 +50,10 @@ int main()
     return 0;
     }
 }
+/*
+Enter the month number (1-12):2
+February has 28 days (29 days in Leap year)
+
+Enter the month number (1-12):12
+December has 30 days
+*/

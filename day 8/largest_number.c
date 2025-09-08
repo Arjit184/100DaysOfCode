@@ -17,3 +17,14 @@ int main()
                     printf("%d is the largest number",c);
                     return 0;
 }
+/*
+Enter first number:3
+Enter second number:7
+Enter third number:5
+7 is the Largest number
+
+Enter first number:-1
+Enter second number:-5  
+Enter third number:0
+0 is the largest number
+*/

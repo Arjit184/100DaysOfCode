@@ -24,3 +24,15 @@ int main()
 
 
 }
+/*
+Enter the sides of the triangle:
+3 3 3
+The triangle is equilateral.
+
+Enter the sides of the triangle:
+3 3 4
+The triangle is isosceles.
+Enter the sides of the triangle:
+2 3 4
+The triangle is scalene.
+*/
