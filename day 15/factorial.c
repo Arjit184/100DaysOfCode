@@ -20,3 +20,16 @@ int main()
     return 0;
 } 
 }
+/*
+Enter a number:5
+1
+2
+6
+24
+120
+
+Enter a number:3
+1
+2
+6
+*/

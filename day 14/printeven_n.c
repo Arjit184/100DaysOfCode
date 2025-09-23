@@ -11,7 +11,7 @@ int main()
         printf("Invalid Input");
     }
     else {
-        for(i=1;i<=n;i+2)
+        for(i=1;i<=n;i++)
     {
         
             if (i%2==0)
@@ -25,3 +25,13 @@ int main()
             
     return 0;
         }
+        /*
+        Enter a number:4
+2
+8
+
+Enter a number:6
+2
+8
+48
+        */

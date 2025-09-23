@@ -13,10 +13,24 @@ int main()
     else {
         for(i=1;i<=n;i++)
         {
-            sum+=(2*i-1);
+            sum=sum+(2*i-1);
             printf("%d\n",sum);
           
         }
     }
     return 0;
     }
+
+    /*
+    Enter a number:3
+1
+4
+9
+
+Enter a number:5
+1
+4
+9
+16
+25
+    */
