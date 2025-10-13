@@ -8,7 +8,7 @@ int main()
     int c=0,powTen,first,middle,new,last;
     printf("Enter number ");
     scanf("%d",&n);
-    int original=n; //storing value of n temporarily to compare later
+    int original=n; //storing value of n to compare later
     int temp=n;
     while(temp>0)
     {
